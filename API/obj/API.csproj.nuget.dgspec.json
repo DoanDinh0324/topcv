@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doan Dinh\\OneDrive\\Máy tính\\REACTJS\\topcv\\API\\API.csproj": {}
+    "C:\\Users\\Dinh\\Documents\\GitHub\\topcv\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doan Dinh\\OneDrive\\Máy tính\\REACTJS\\topcv\\API\\API.csproj": {
+    "C:\\Users\\Dinh\\Documents\\GitHub\\topcv\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doan Dinh\\OneDrive\\Máy tính\\REACTJS\\topcv\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh\\Documents\\GitHub\\topcv\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Doan Dinh\\OneDrive\\Máy tính\\REACTJS\\topcv\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Doan Dinh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doan Dinh\\OneDrive\\Máy tính\\REACTJS\\topcv\\API\\obj\\",
+        "projectPath": "C:\\Users\\Dinh\\Documents\\GitHub\\topcv\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\Dinh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh\\Documents\\GitHub\\topcv\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Doan Dinh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dinh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -109,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
